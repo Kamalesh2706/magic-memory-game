@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/magic-memory-game/static/css/main.2d325f53.css",
-    "main.js": "/magic-memory-game/static/js/main.c6f96844.js",
+    "main.js": "/magic-memory-game/static/js/main.76c65de7.js",
     "static/js/453.f3ab6685.chunk.js": "/magic-memory-game/static/js/453.f3ab6685.chunk.js",
     "index.html": "/magic-memory-game/index.html",
     "main.2d325f53.css.map": "/magic-memory-game/static/css/main.2d325f53.css.map",
-    "main.c6f96844.js.map": "/magic-memory-game/static/js/main.c6f96844.js.map",
+    "main.76c65de7.js.map": "/magic-memory-game/static/js/main.76c65de7.js.map",
     "453.f3ab6685.chunk.js.map": "/magic-memory-game/static/js/453.f3ab6685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2d325f53.css",
-    "static/js/main.c6f96844.js"
+    "static/js/main.76c65de7.js"
   ]
 }
